@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Hotspot Manager
+Name[de]=Hotspot-Verwaltung
+Comment=Configure and start a NetworkManager Wi-Fi hotspot
+Comment[de]=NetworkManager-WLAN-Hotspot einrichten und starten
+Exec=hotspot-manager-kde
+Icon=network-wireless-hotspot
+Terminal=false
+Categories=Qt;KDE;Network;
